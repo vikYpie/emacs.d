@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ember-block
+# key: e-block
+# --
+{{#$1 $2}}
+  $0
+{{/$1}}
